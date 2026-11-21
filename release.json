@@ -4,6 +4,6 @@
   "versionCode": 3,
   "downloadUrl": "https://raw.githubusercontent.com/anransu983-sketch/dungeon/main/releases/dilao-tanxian-1.0.0-release-v3.apk",
   "apkUrl": "https://raw.githubusercontent.com/anransu983-sketch/dungeon/main/releases/dilao-tanxian-1.0.0-release-v3.apk",
-  "notes": "vc3：角色怪物放大，地图改成实景；新增火炬之光式跟随宠物（能打、能捡、能回城卖东西、能升级复活）；新增日志（更新日志+对局日志，本机持久化）和应用内检查更新。",
-  "changelog": "vc3：角色怪物放大，地图改成实景；新增火炬之光式跟随宠物（能打、能捡、能回城卖东西、能升级复活）；新增日志（更新日志+对局日志，本机持久化）和应用内检查更新。"
+  "notes": "vc3：角色怪物放大，地图改成实景；新增火炬之光式跟随宠物（能打、能捡、能回城卖东西、能升级复活）；新增日志（更新日志+对局日志，本机持久化）和应用内检查更新；装备强化（金币强化，有成功率和保底）、附魔、宝石镶嵌与合成、翅膀装配位；装备随机词条与10240种词条库，全套去重。",
+  "changelog": "vc3：角色怪物放大，地图改成实景；新增火炬之光式跟随宠物（能打、能捡、能回城卖东西、能升级复活）；新增日志（更新日志+对局日志，本机持久化）和应用内检查更新；装备强化（金币强化，有成功率和保底）、附魔、宝石镶嵌与合成、翅膀装配位；装备随机词条与10240种词条库，全套去重。"
 }
