@@ -1,9 +1,11 @@
 {
-  "versionName": "1.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/anransu983-sketch/dungeon/main/releases/dilao-tanxian-1.0.0-release-v13.apk",
+  "changelog": "vc13：首页横向溢出修复（右列入口仓库/商城/更新/玩法/永久卡/战绩/修改器之前被包在左列的外层容器里，right:8px 是相对一个 0 宽的盒子算的，整列被顶到屏幕左边缘外、只剩一条边；已拆掉重复嵌套的外层 div，左右两列改成场景的直接子元素；右列 7 个按钮改成 38px、间距 3px，刚好塞进 300px 场景，不再探出场景底部；左列 6 个入口保持 44px 不动；玩法、数值、存档格式（save v:7）一律不动，覆盖安装战绩保留）。",
+  "downloadUrl": "https://raw.githubusercontent.com/anransu983-sketch/dungeon/main/releases/dilao-tanxian-1.0.0-release-v13.apk",
+  "notes": "vc13：首页横向溢出修复（右列入口仓库/商城/更新/玩法/永久卡/战绩/修改器之前被包在左列的外层容器里，right:8px 是相对一个 0 宽的盒子算的，整列被顶到屏幕左边缘外、只剩一条边；已拆掉重复嵌套的外层 div，左右两列改成场景的直接子元素；右列 7 个按钮改成 38px、间距 3px，刚好塞进 300px 场景，不再探出场景底部；左列 6 个入口保持 44px 不动；玩法、数值、存档格式（save v:7）一律不动，覆盖安装战绩保留）。",
+  "sha256": "0c7251b34947ab3b1108c0900e0ec0700de548dabaa6977c6b1511c218dc9f1c",
+  "size": 2046064,
   "version": "1.0.0",
-  "versionCode": 3,
-  "downloadUrl": "https://raw.githubusercontent.com/anransu983-sketch/dungeon/main/releases/dilao-tanxian-1.0.0-release-v3.apk",
-  "apkUrl": "https://raw.githubusercontent.com/anransu983-sketch/dungeon/main/releases/dilao-tanxian-1.0.0-release-v3.apk",
-  "notes": "vc3：角色怪物放大，地图改成实景；新增火炬之光式跟随宠物（能打、能捡、能回城卖东西、能升级复活）；新增日志（更新日志+对局日志，本机持久化）和应用内检查更新；装备强化（金币强化，有成功率和保底）、附魔、宝石镶嵌与合成、翅膀装配位；装备随机词条与10240种词条库，全套去重。",
-  "changelog": "vc3：角色怪物放大，地图改成实景；新增火炬之光式跟随宠物（能打、能捡、能回城卖东西、能升级复活）；新增日志（更新日志+对局日志，本机持久化）和应用内检查更新；装备强化（金币强化，有成功率和保底）、附魔、宝石镶嵌与合成、翅膀装配位；装备随机词条与10240种词条库，全套去重。"
+  "versionCode": 13,
+  "versionName": "1.0.0"
 }
